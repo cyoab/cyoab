@@ -23,4 +23,4 @@ I help organizations transform through technology—securely and intelligently.
 
 ## 📫 Let's Connect
 
-Building something interesting? Let's talk about how technology can drive your transformation.
+Building something interesting? Let's talk!
