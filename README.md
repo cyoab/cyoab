@@ -19,7 +19,7 @@ I help organizations transform through technology—securely and intelligently.
 
 **Exploring in 2026:**
 - 📘 **TypeScript** - Modern web applications and CLIs
-- 🦀 **Rust** - Low-level systems programming and performance-critical tools
+- ⚡ **Zig** - Low-level systems programming and performance-critical tools
 
 ## 📫 Let's Connect
 
